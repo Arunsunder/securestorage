@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319799062546",
+    "project_id": "storage-b23a8",
+    "storage_bucket": "storage-b23a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319799062546:android:02e3a4a1d6adc3e078e8cb",
+        "android_client_info": {
+          "package_name": "com.example.securestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319799062546-tu86u7hq7vrordl46th1fasfielrpkp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXeHzs8XKG_wOn1wGj9MHI7zLDrbdmRaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319799062546-tu86u7hq7vrordl46th1fasfielrpkp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
